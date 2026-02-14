@@ -16,7 +16,7 @@ Note that the diagrams only represent a regular 4-year engineering program. You 
 
 ---
 
-<h2 id="overview">## 🗺️ Overview</h2>
+<h2 id="overview">🗺️ Overview</h2>
 The complete map of all the mandatory courses as well as the electives you are allowed to take.  
 The diagram omits Bioelectronics track as all courses there (except the Intro to Lasers) aren't listed as the courses you can usually take. These courses are mostly offered in Biomedical Engineering.  
 3 courses that can be seen above the diagram are the courses that are in the same position as the Bioelectronics track.
@@ -26,7 +26,7 @@ The diagram omits Bioelectronics track as all courses there (except the Intro to
 
 ---
 
-<h2 id="foundations">## 🏛️ Foundations</h2>
+<h2 id="foundations">🏛️ Foundations</h2>
 The foundational mandatory courses that must be taken by every student enrolled into EE at TAU as of 2026.
 
 ### Mandatory Courses
@@ -34,7 +34,7 @@ The foundational mandatory courses that must be taken by every student enrolled 
 > 🔍 **[Open SVG](./Main/Mandatory/Mandatory.svg)** | 🛠️ **[Download yEd Source](./Main/Mandatory/Mandatory.graphml)**
 
 ---
-<h2 id="tracks">## 🛤️ Academic Tracks (12)</h2>
+<h2 id="tracks">🛤️ Academic Tracks (12)</h2>
 These diagrams show the specific courses for each track and how they connect back to the **Mandatory** core.
 
 <details>
