@@ -13,6 +13,7 @@ Note that the diagrams only represent a regular 4-year engineering program. You 
 * [🗺️ Overview](#overview)
 * [🏛️ Foundations](#foundations)
 * [🛤️ Academic Tracks](#tracks)
+* [🎓 Special](#special)
 
 ---
 
@@ -42,7 +43,7 @@ The foundational mandatory courses that must be taken by every student enrolled 
 These diagrams show the specific courses for each track and how they connect back to the **Mandatory** core.
 
 <details>
-  <summary><b>▶ Click to expand: Track 01 - 📡 Communications</b></summary>
+  <summary><b>▶ Track 01 - 📡 Communications</b></summary>
   <br>
 
   [![Communications Preview](./Main/Tracks/Communications/diagram_Communications.png)](./Main/Tracks/Communications/Communications.svg)
@@ -51,7 +52,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 02 - 📉 Signal Processing</b></summary>
+  <summary><b>▶ Track 02 - 📉 Signal Processing</b></summary>
   <br>
 
   [![Signal Processing Preview](./Main/Tracks/Signal%20Processing/diagram_SignalProcessing.png)](./Main/Tracks/Signal%20Processing/Signal%20Processing.svg)
@@ -60,7 +61,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 03 - 💻 Computer Systems</b></summary>
+  <summary><b>▶ Track 03 - 💻 Computer Systems</b></summary>
   <br>
 
   [![Computer Systems Preview](./Main/Tracks/Computer%20Systems/diagram_ComputerSystems.png)](./Main/Tracks/Computer%20Systems/Computer%20Systems.svg)
@@ -69,7 +70,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 04 - 🕹️ Control Systems</b></summary>
+  <summary><b>▶ Track 04 - 🕹️ Control Systems</b></summary>
   <br>
 
   [![Control Preview](./Main/Tracks/Controly/diagram_Control%26Autonomy.png)](./Main/Tracks/Control/Control%20%26%20Autonomy.svg)
@@ -78,7 +79,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 05 - 🔋 Energy & Renewables</b></summary>
+  <summary><b>▶ Track 05 - 🔋 Energy & Renewables</b></summary>
   <br>
 
   [![Energy Preview](./Main/Tracks/Energy%20%26%20Renewables/diagram_Energy%26Renewables.png)](./Main/Tracks/Energy%20%26%20Renewables/Energy%20%26%20Renewables.svg)
@@ -87,7 +88,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 06 - 🔦 Optics & Photonics</b></summary>
+  <summary><b>▶ Track 06 - 🔦 Optics & Photonics</b></summary>
   <br>
 
   [![Optics Preview](./Main/Tracks/Optics%20%26%20Photonics/diagram_Optics%26Photonics.png)](./Main/Tracks/Optics%20%26%20Photonics/Optics%20%26%20Photonics.svg)
@@ -96,7 +97,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 07 - 🔬 Devices & Nanoelectronics</b></summary>
+  <summary><b>▶ Track 07 - 🔬 Devices & Nanoelectronics</b></summary>
   <br>
 
   [![Devices Preview](./Main/Tracks/Devices%20%26%20Nanoelectronics/diagram_Devices%26Nanoelectronics.png)](./Main/Tracks/Devices%20%26%20Nanoelectronics/Devices%20%26%20Nanoelectronics.svg)
@@ -105,7 +106,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 08 - 🧲 EM & Radiation</b></summary>
+  <summary><b>▶ Track 08 - 🧲 EM & Radiation</b></summary>
   <br>
 
   [![EM Preview](./Main/Tracks/EM%20%26%20Radiation/diagram_EM%26Radiation.png)](./Main/Tracks/EM%20%26%20Radiation/EM%20%26%20Radiation.svg)
@@ -114,7 +115,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 09 - 🧪 Electronic Materials</b></summary>
+  <summary><b>▶ Track 09 - 🧪 Electronic Materials</b></summary>
   <br>
 
   [![Materials Preview](./Main/Tracks/Electronic%20Materials/diagram_ElectronicMaterials.png)](./Main/Tracks/Electronic%20Materials/Electronic%20Materials.svg)
@@ -123,7 +124,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 10 - ⚛️ Quantum Communications and Information</b></summary>
+  <summary><b>▶ Track 10 - ⚛️ Quantum Communications and Information</b></summary>
   <br>
 
   [![Quantum Preview](./Main/Tracks/Quantum%20Comms%20%26%20Info/diagram_Quantum.png)](./Main/Tracks/Quantum%20Comms%20%26%20Info/Quantum%20Comms%20%26%20Info.svg)
@@ -132,7 +133,7 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 11 - 📟 VLSI</b></summary>
+  <summary><b>▶ Track 11 - 📟 VLSI</b></summary>
   <br>
 
   [![VLSI Preview](./Main/Tracks/VLSI/diagram_VLSI.png)](./Main/Tracks/VLSI/VLSI.svg)
@@ -141,10 +142,37 @@ These diagrams show the specific courses for each track and how they connect bac
 </details>
 
 <details>
-  <summary><b>▶ Click to expand: Track 12 - 🤖 AI/ML</b></summary>
+  <summary><b>▶ Track 12 - 🤖 AI/ML</b></summary>
   <br>
 
   [![AI Preview](./Main/Tracks/AI%20%26%20ML/diagram_AI%26ML.png)](./Main/Tracks/AI%20%26%20ML/AI%20%26%20ML.svg)
 
   > 🔍 **[Open SVG](./Main/Tracks/AI%20%26%20ML/AI%20%26%20ML.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/AI%20%26%20ML/AI%20%26%20ML.graphml)**
 </details>
+
+---
+
+<h2 id="special">🎓 Special Courses</h2>
+
+Given that there are so many tracks, there bound to be courses that are considered to be in several tracks at once.  
+In the [🗺️ Overview](#overview), I used red octagons to represent courses that are in 3 or more tracks at the same time. Here you can see exactly which tracks they belong to:
+
+<br>
+
+[![Central Preview](./Main/Tracks/Special/diagram_Central.png)](./Main/Tracks/Special/Central.svg)
+> 🔍 **[Open SVG](./Main/Tracks/Special/Central.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Special/Central.graphml)**
+
+<br>
+
+In addition, you might've also noticed certain **purple-colored** courses—those are from a track I decided not to list fully as it has almost no connections to other courses.  
+The track is called **Multidisciplinary**, and 3/5 courses in it require a high average, an interview, or have limited availability:
+
+<br>
+
+[![Bonus Preview](./Main/Tracks/Special/diagram_special.png)](./Main/Tracks/Special/special.svg)
+> 🔍 **[Open SVG](./Main/Tracks/Special/special.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Special/special.graphml)**
+
+<br>
+
+There are other "special courses"—those usually given to Master's students but allowed for Bachelor's students with professor approval.  
+All these courses can be found in the last row of the [🗺️ Overview](#overview) and have a **magenta dotted line** as their border.
