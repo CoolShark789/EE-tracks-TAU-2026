@@ -15,6 +15,11 @@ Note that the diagrams only represent a regular 4-year engineering program. You 
 * [🛤️ Academic Tracks](#tracks)
 * [🎓 Special](#special)
 
+> [!IMPORTANT]
+> ### 🔍 Viewing Quality & Interaction
+> Due to the large scale of these maps, the **previews** shown below appear blurry and are difficult to read.
+> * **[Open the SVG]** or **[Download the Source]** links provided under each section (to use GRAPHML files you need to install [yEd Graph Editor](https://www.yworks.com/products/yed))
+> * SVG files can be opened in the browser and each node contains a hyperlink, leading to the university's website with the schedule for that course (second semester, 2026)
 ---
 
 <h2 id="overview">🗺️ Overview</h2>
