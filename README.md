@@ -1,10 +1,23 @@
-# EE-tracks-TAU-2026
-Diagrams of the courses you can take at TAU while doing B.Sc in EE
+# Electrical Engineering courses at TAU (2026)
+Diagrams of the courses you can take at TAU while doing B.Sc in EE.  
 
+All the diagrams are made top-to-bottom - meaning that the first row is the first semester, second is the second and so on.  
+Starting from 5th semester you may choose electives. All of the elective classes are in the first row of the semester they can be taken.  
+Example: you can take Computer Architecture starting from the 6th semester (given you have completed the prerequisites), but that doesn't mean you aren't allowed to take it in your last one.  
+
+Note that the diagrams only represent a regular 4-year engineering program. You can extend that period and/or retake some classes - in which case your plan will be slightly shifted.  
+
+---
+
+## 📍 Quick Navigation
+* [🗺️ Overview](#️-overview)
+* [🏛️ Foundations](#️-foundations)
+* [🛤️ Academic Tracks](#️-tracks)
 
 ---
 
 ## 🗺️ Overview
+<a name="-overview"></a>
 The complete map of all the mandatory courses as well as the electives you are allowed to take.  
 The diagram omits Bioelectronics track as all courses there (except the Intro to Lasers) aren't listed as the courses you can usually take. These courses are mostly offered in Biomedical Engineering.  
 3 courses that can be seen above the diagram are the courses that are in the same position as the Bioelectronics track.
@@ -15,6 +28,7 @@ The diagram omits Bioelectronics track as all courses there (except the Intro to
 ---
 
 ## 🏛️ Foundations
+<a name="-foundations"></a>
 The foundational mandatory courses that must be taken by every student enrolled into EE at TAU as of 2026.
 
 ### Mandatory Courses
@@ -23,6 +37,7 @@ The foundational mandatory courses that must be taken by every student enrolled 
 
 ---
 ## 🛤️ Academic Tracks (12)
+<a name="-tracks"></a>
 These diagrams show the specific courses for each track and how they connect back to the **Mandatory** core.
 
 <details>
