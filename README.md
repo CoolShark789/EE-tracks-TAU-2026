@@ -38,7 +38,7 @@ These diagrams show the specific courses for each track and how they connect bac
   <summary><b>▶ Click to expand: Track 02 - 📉 Signal Processing</b></summary>
   <br>
 
-  [![Signal Processing Preview](./Main/Tracks/Signal%20Processing/SignalProcessing.png)](./Main/Tracks/Signal%20Processing/Signal%20Processing.svg)
+  [![Signal Processing Preview](./Main/Tracks/Signal%20Processing/diagram_SignalProcessing.png)](./Main/Tracks/Signal%20Processing/Signal%20Processing.svg)
 
   > 🔍 **[Open SVG](./Main/Tracks/Signal%20Processing/Signal%20Processing.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Signal%20Processing/Signal%20Processing.graphml)**
 </details>
@@ -56,9 +56,9 @@ These diagrams show the specific courses for each track and how they connect bac
   <summary><b>▶ Click to expand: Track 04 - 🕹️ Control Systems</b></summary>
   <br>
 
-  [![Control Preview](./Main/Tracks/Control%20%26%20Autonomy/diagram_Control%26Autonomy.png)](./Main/Tracks/Control%20%26%20Autonomy/Control%20%26%20Autonomy.svg)
+  [![Control Preview](./Main/Tracks/Controly/diagram_Control%26Autonomy.png)](./Main/Tracks/Control/Control%20%26%20Autonomy.svg)
 
-  > 🔍 **[Open SVG](./Main/Tracks/Control%20%26%20Autonomy/Control%20%26%20Autonomy.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Control%20%26%20Autonomy/Control%20%26%20Autonomy.graphml)**
+  > 🔍 **[Open SVG](./Main/Tracks/Control/Control%20%26%20Autonomy.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Control/Control%20%26%20Autonomy.graphml)**
 </details>
 
 <details>
@@ -74,7 +74,7 @@ These diagrams show the specific courses for each track and how they connect bac
   <summary><b>▶ Click to expand: Track 06 - 🔦 Optics & Photonics</b></summary>
   <br>
 
-  [![Optics Preview](./Main/Tracks/Optics%20%26%20Photonics/Optics%26Photonics.png)](./Main/Tracks/Optics%20%26%20Photonics/Optics%20%26%20Photonics.svg)
+  [![Optics Preview](./Main/Tracks/Optics%20%26%20Photonics/diagram_Optics%26Photonics.png)](./Main/Tracks/Optics%20%26%20Photonics/Optics%20%26%20Photonics.svg)
 
   > 🔍 **[Open SVG](./Main/Tracks/Optics%20%26%20Photonics/Optics%20%26%20Photonics.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Optics%20%26%20Photonics/Optics%20%26%20Photonics.graphml)**
 </details>
