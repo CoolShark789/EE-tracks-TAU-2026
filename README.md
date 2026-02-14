@@ -159,8 +159,8 @@ In the [🗺️ Overview](#overview), I used red octagons to represent courses t
 
 <br>
 
-[![Central Preview](./Main/Tracks/Special/diagram_Central.png)](./Main/Tracks/Special/Central.svg)
-> 🔍 **[Open SVG](./Main/Tracks/Special/Central.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Special/Central.graphml)**
+[![Central Preview](./Main/Special/diagram_Central.png)](./Main/Special/Central.svg)
+> 🔍 **[Open SVG](./Main/Special/Central.svg)** | 🛠️ **[Download yEd Source](./Main/Special/Central.graphml)**
 
 <br>
 
@@ -169,8 +169,8 @@ The track is called **Multidisciplinary**, and 3/5 courses in it require a high 
 
 <br>
 
-[![Bonus Preview](./Main/Tracks/Special/diagram_special.png)](./Main/Tracks/Special/special.svg)
-> 🔍 **[Open SVG](./Main/Tracks/Special/special.svg)** | 🛠️ **[Download yEd Source](./Main/Tracks/Special/special.graphml)**
+[![Bonus Preview](./Main/Special/diagram_special.png)](./Main/Special/special.svg)
+> 🔍 **[Open SVG](./Main/Special/special.svg)** | 🛠️ **[Download yEd Source](./Main/Special/special.graphml)**
 
 <br>
 
